@@ -1,6 +1,37 @@
 nav {
-background-color: #944A09;
+  background-color: #944A09;
 }
 li a {
-text-decoration: none;
+  color: #b38346;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #592d08;
+}
+a {
+  display: block;
+}
+ul {
+  list-style-type: none;
+}
+body {
+  background-color: #f2ab63
+}
+p {
+  color: #633a0f;
+}
+h1 {
+  color: #633a0f;
+}
+h2 {
+  color: #633a0f;
+}
+header {
+  
+}
+img {
+  border-style: solid;
+    border-color: #633a0f;
+    border-width: 5px;
+    border-radius: 5px;
 }
