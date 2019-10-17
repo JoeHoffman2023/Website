@@ -1,7 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
 nav {
   background-color: #944A09;
+  font-size: 30px;
 }
 li a {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
   color: #b38346;
   text-decoration: none;
 }
@@ -19,6 +28,8 @@ body {
 }
 p {
   color: #633a0f;
+  font-size: 25px;
+
 }
 h1 {
   color: #633a0f;
@@ -27,7 +38,7 @@ h2 {
   color: #633a0f;
 }
 header {
-  
+
 }
 img {
   border-style: solid;
