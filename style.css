@@ -39,12 +39,19 @@ h1 {
 h2 {
   color: #633a0f;
 }
+
+h3 {
+  color: #633a0f;
+}
+
 header {
 
 }
 img {
+  width: 20vw;
   border-style: solid;
     border-color: #633a0f;
     border-width: 5px;
     border-radius: 5px;
+
 }
