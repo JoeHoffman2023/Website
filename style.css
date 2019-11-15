@@ -59,6 +59,10 @@ footer {
 
 .main {
   display: grid;
-  grid-template-columns: auto;
-  grid-template-rows: auto;
+  grid-template-rows: 50px 1fr;
 }
+
+.maingallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
